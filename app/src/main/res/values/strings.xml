@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">中国古典诗词</string>
+    <string name="bookshelf">书架</string>
+    <string name="favorites">收藏</string>
+    <string name="settings">设置</string>
+    <string name="search_hint">搜索诗句 / 标题 / 作者</string>
+    <string name="search_no_result">未找到相关诗词</string>
+    <string name="loading">正在初始化诗词库…</string>
+    <string name="reader_font_size">字号</string>
+    <string name="reader_line_spacing">行距</string>
+    <string name="theme_mode">主题</string>
+    <string name="theme_light">浅色</string>
+    <string name="theme_dark">深色</string>
+    <string name="theme_follow">跟随系统</string>
+    <string name="data_reset">清除阅读数据</string>
+    <string name="data_reset_confirm">确定清除全部收藏、书签和阅读进度吗？</string>
+    <string name="about">关于</string>
+    <string name="about_content">本应用基于开源项目 chinese-poetry 精选经典诗词文集构建，数据与图标遵循 MIT 协议。仅收录唐诗三百首、宋词三百首、诗经、楚辞、四书五经、蒙学等经典篇目，本地离线阅读。</string>
+    <string name="empty_favorite">还没有收藏，去书架逛逛吧</string>
+    <string name="no_collection_found">未找到文集</string>
+</resources>
